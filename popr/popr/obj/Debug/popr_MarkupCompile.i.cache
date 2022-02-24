@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\pr-99-KhromenkoLA\source\repos\popr\popr\obj\Debug\
+D:\File\GitHub\Popr\popr\popr\obj\Debug\
 popr
 none
 false
 DEBUG;TRACE
-C:\Users\pr-99-KhromenkoLA\source\repos\popr\popr\App.xaml
-4-1450511087
+D:\File\GitHub\Popr\popr\popr\App.xaml
+51904502799
 
-9-52278335
+10-1335640170
 13-1505183044
-MainWindow.xaml;Style\ColorDictionary.xaml;UCs\AgentListUC.xaml;UCs\TestDG.xaml;
+MainWindow.xaml;Style\ColorDictionary.xaml;UCs\AgentCardUC.xaml;UCs\AgentListUC.xaml;UCs\TestDG.xaml;
 
 True
 

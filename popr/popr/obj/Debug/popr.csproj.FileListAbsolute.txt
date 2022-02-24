@@ -42,3 +42,5 @@ D:\File\GitHub\Popr\popr\popr\obj\Debug\popr.csproj.GenerateResource.cache
 D:\File\GitHub\Popr\popr\popr\obj\Debug\popr.csproj.CoreCompileInputs.cache
 D:\File\GitHub\Popr\popr\popr\obj\Debug\popr.exe
 D:\File\GitHub\Popr\popr\popr\obj\Debug\popr.pdb
+D:\File\GitHub\Popr\popr\popr\obj\Debug\UCs\AgentCardUC.g.cs
+D:\File\GitHub\Popr\popr\popr\obj\Debug\UCs\AgentCardUC.baml
